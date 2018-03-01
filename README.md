@@ -7,8 +7,8 @@ Runner with current fastest time is output on port A.
 
 - `Port A` Output id of best runner
 - `Port D` Signal inputs
- - `Bit 0` Clock start / stop
- - `Bit 4` Runner start / finish
+  - `Bit 0` Clock start / stop
+  - `Bit 4` Runner start / finish
 - `Port E` Input runner ID
 
 
