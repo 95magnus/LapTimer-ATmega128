@@ -1,7 +1,7 @@
 # Lap timer for ATmega128
 
 Track runner timing system for the ATmega128 microcontroller.
-Runner with current fastest time is output on port A.
+Thr runner with current fastest time is output on port A.
 
 ## I/O
 
